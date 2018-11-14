@@ -1,0 +1,175 @@
+#heading{
+    background-color: #43af42;
+    color: white;
+    text-align: center;
+    padding: 35px 0px;
+}
+#heading h1{
+    font-size: 85px;
+}
+#heading p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#cv{
+    color: #515153;
+    padding: 100px 0px;
+}
+#cv p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#cv .left{
+    text-align: center;
+}
+#cv .left .btn{
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 15px 50px;
+    margin: 30px 0px;
+    width: 100%;
+}
+#cv .fa-mobile{
+    font-size: 20px;
+}
+#cv .right h1{
+    font-size: 45px;
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+#cv .right h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+#cv .right h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 22px;
+    line-height: 30px;
+    padding-bottom: 50px;
+}
+#cv .right .firsthr{
+    width: 10%;
+    display: inline-block;
+    border: none;
+    height: 3px;
+    background-color: #43af42;
+}
+#cv .right .secondhr{
+    border: none;
+    height: 3px;
+    background-color:#515153 ;
+}
+#cv .right .certificates img:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 25px -2px black;
+}
+#cv .right .certificates img{
+    transition: all linear 0.3s;
+}
+#awards{
+    background-color: #f2f4fa;
+    padding: 100px 0px 50px;
+}
+#awards p{
+    color: #7e7e7e;
+    font-family: 'Times New Roman', Times, serif;
+}
+#awards h5{
+    color: #43af42;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#awards .row{
+    padding-bottom: 50px;
+}
+#why{
+    padding: 100px 0px;
+}
+#why i {
+    background-color: #43af42;
+    font-size: 30px;
+    border-radius: 100%;
+    color: white;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    line-height: 70px;
+    margin-right: 5px;
+}
+#why p {
+    color: #7e7e7e;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#why h4 {
+    font-weight: bolder;
+    
+}
+#why h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: #515153;
+}
+#why hr{
+    width: 7%;
+    border: none;
+    height: 2px;
+    background-color: #43af42;
+    margin-bottom: 40px;
+}
+#strip{
+    padding: 50px 0px;
+    background-color: #43af42;
+    text-align: center;
+    color: white;
+}
+#strip .btn{
+    padding: 17px 0px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#strip h2{
+    margin-bottom: 0px;
+}
+#moreinfo{
+    padding: 100px 0px;
+    background-color: #f2f4fa;
+
+}
+#moreinfo h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: #515153;
+}
+#moreinfo hr{
+    width: 7%;
+    border: none;
+    height: 2px;
+    background-color: #43af42;
+    margin-bottom: 40px;
+}
+#moreinfo .item div{
+    background-image: url('images/smallbg.jpg');
+    padding: 0px 10px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 250px;
+    position: relative;
+}
+#moreinfo h4{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+}
+#moreinfo .view{
+    text-align: center;
+}
+#moreinfo .view a{
+    margin-top: 50px;
+    padding: 10px 120px;
+    font-size: 20px;
+    font-weight: bolder;
+}
